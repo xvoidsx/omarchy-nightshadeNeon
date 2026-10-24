@@ -1,0 +1,33 @@
+# nightshadeNeon — the navi theme.
+# Pink/green on near-black violet. Accent is neon pink, success is neon green.
+mode = "dark"
+
+accent = "#ff10f0"
+selection = "#2a0a24"
+muted = "#6f6589"
+
+background = "#07040f"
+dark_background = "#04020a"
+darker_background = "#020108"
+lighter_background = "#14092a"
+
+foreground = "#ece7f7"
+dark_foreground = "#a79dc2"
+light_foreground = "#ffffff"
+bright_foreground = "#ffffff"
+
+red = "#ff3131"
+yellow = "#eaff00"
+orange = "#ff5c8a"
+green = "#39ff14"
+cyan = "#00ffff"
+blue = "#8b5cf6"
+magenta = "#ff10f0"
+brown = "#5b2a4a"
+
+bright_red = "#ff5c5c"
+bright_yellow = "#f2ff5c"
+bright_green = "#a3ff12"
+bright_cyan = "#7df9ff"
+bright_blue = "#a78bfa"
+bright_magenta = "#ff7ae0"
